@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "name": "Teh Hijau",
+      "price": 7000,
+      "stock": 10
+      },
+      {
+        "name": "Teh Melati",
+        "price": 7000,
+        "stock": 7
+        },
+        {
+          "name": "Teh Oolong",
+          "price": 8000,
+          "stock": 10
+          },
+          {
+            "name": "Teh Bunga Rosella",
+            "price": 10000,
+            "stock": 12
+            },
+            {
+              "name":"Teh Gurah",
+              "price": 10000,
+              "stock": 15
+              }
+  ]
+}
